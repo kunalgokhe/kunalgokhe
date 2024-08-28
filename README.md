@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mathematical Modelling and Simulation, Machine Learning and Deep Learning.**
 
-- 💬 Ask me about **MATLAB and Simulink, ANSYS**
+- 💬 Ask me about **MATLAB and Simulink, ANSYS, Solidworks**
 
 - 📫 How to reach me **kunalgokhe@gmail.com**
 
